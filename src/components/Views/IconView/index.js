@@ -1,0 +1,1 @@
+export { IconView } from './IconView';
